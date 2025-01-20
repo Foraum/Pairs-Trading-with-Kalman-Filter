@@ -24,3 +24,7 @@ The project consists of the following steps:
 - **Pandas:** For data manipulation
 - **Matplotlib/Plotly:** For data visualization
 - **Yahoo Finance API or yfinance library:** For obtaining stock data
+
+## Documentation
+[Project Question Paper PDF](Project_Question_Paper.pdf): Contains the original problem statement.<br>
+[Final Report](Final_Project_Report.pdf): Detailed report of the project, including the methodology and results.
